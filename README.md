@@ -91,7 +91,7 @@ It will guess the delimiter when starting up, and if you tag's name is delimited
 However, it does not alway work. If you are unhappy with this, make your own modification.
 
 # ScreenShot
-![project](https://github.com/tzws/OpcDataExplorer/blob/master/Screenshot/project.png)
+
 ![start](https://github.com/tzws/OpcDataExplorer/blob/master/Screenshot/start.png)
 ![dataSourceList](https://github.com/tzws/OpcDataExplorer/blob/master/Screenshot/dataSourceList.png)
 ![connect](https://github.com/tzws/OpcDataExplorer/blob/master/Screenshot/connect.png)
